@@ -76,6 +76,12 @@ The structure will be printed to the console and copied to your clipboard.
 
    You can now access the tool from Tools > External Tools > Copy Project Structure.
 
+![shortcut button](preview/add_external_tools.png "shortcut button")
+
+
+![shortcut button](preview/add_external_tools_2.png "shortcut button")
+
+
 ### Adding a Shortcut in the Toolbar
 
 - Right-click on the toolbar.
@@ -83,10 +89,6 @@ The structure will be printed to the console and copied to your clipboard.
 - Find "Main Toolbar" in the tree.
 - Click the + button and add your External Tool.
 
-![shortcut button](preview/add_external_tools.png "shortcut button")
-
-
-![shortcut button](preview/add_external_tools_2.png "shortcut button")
 
 Next you can have the button anywhere you like - left, right, center. I personally have mine on the right next to the RUN widget.
 you can simply drag and move it around the toolbar tree structure :
