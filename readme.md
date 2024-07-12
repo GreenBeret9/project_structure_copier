@@ -71,7 +71,7 @@ The structure will be printed to the console and copied to your clipboard.
 
      Example: "/path/to/project_structure_copier.py `$ProjectFileDir$`
 
-   - Working directory: $ProjectFileDir$
+   - Working directory: `$ProjectFileDir$`
 5. Click OK to save.
 
    You can now access the tool from Tools > External Tools > Copy Project Structure.
