@@ -94,4 +94,12 @@ The structure will be printed to the console and copied to your clipboard.
 ## Output
 
 The script generates a tree-like structure of your project, for example:
-
+your_project/
+├── app/
+│ ├── models/
+│ │ ├── user.py
+│ │ └── product.py
+│ └── views.py
+├── tests/
+│ └── test_app.py
+└── README.md
