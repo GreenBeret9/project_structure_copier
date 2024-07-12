@@ -83,6 +83,20 @@ The structure will be printed to the console and copied to your clipboard.
 - Find "Main Toolbar" in the tree.
 - Click the + button and add your External Tool.
 
+![shortcut button](preview/add_external_tools.png "shortcut button")
+
+
+![shortcut button](preview/add_external_tools_2.png "shortcut button")
+
+Next you can have the button anywhere you like - left, right, center. I personally have mine on the right next to the RUN widget.
+you can simply drag and move it around the toolbar tree structure :
+
+![shortcut button](preview/shortcut_button_location.png "shortcut button")
+
+
+
+![shortcut button](preview/pycharm_toolbar_button.png "shortcut button")
+
 ### Setting up a Hotkey (Optional)
 
 1. Go to File > Settings > Keymap (on Windows/Linux) or PyCharm > Preferences > Keymap (on macOS).
@@ -94,12 +108,6 @@ The structure will be printed to the console and copied to your clipboard.
 ## Output
 
 The script generates a tree-like structure of your project, for example:
-your_project/
-├── app/
-│ ├── models/
-│ │ ├── user.py
-│ │ └── product.py
-│ └── views.py
-├── tests/
-│ └── test_app.py
-└── README.md
+
+![Project Structure Example](preview/pycharm_cli_output.png "Project Structure")
+
