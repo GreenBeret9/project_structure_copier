@@ -111,3 +111,5 @@ The script generates a tree-like structure of your project, for example:
 
 ![Project Structure Example](preview/pycharm_cli_output.png "Project Structure")
 
+## Need help ? 
+dm me on discord green.beret or on reddit u/General-Carrot-4624
