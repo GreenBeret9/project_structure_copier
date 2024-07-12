@@ -67,8 +67,10 @@ The structure will be printed to the console and copied to your clipboard.
 4. Fill in the following:
    - Name: "Copy Project Structure"
    - Program: Path to your Python interpreter (e.g., "python" or full path)
-   - Arguments: Path to the script followed by $ProjectFileDir$
-     Example: "/path/to/project_structure_copier.py $ProjectFileDir$"
+   - Arguments: Path to the script followed by `$ProjectFileDir$`
+
+     Example: "/path/to/project_structure_copier.py `$ProjectFileDir$`
+
    - Working directory: $ProjectFileDir$
 5. Click OK to save.
 
